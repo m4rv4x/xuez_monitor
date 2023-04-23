@@ -43,7 +43,7 @@ nano /var/www/hmtl/config.php
 - Xuez-monitor now uses curl to make RPC request, it can be done locally or remotely and is much safer than older method (php shell_exec)
 
 # Example
-- You can see it running : http://45.77.53.110/
+- You can see it running : (no longer)
 
 # Feel free to Donate
-- XUEZ : XFZVA98C3t38KSob6AUnxqzNp86TjbqVtw
+- XUEZ : ....
