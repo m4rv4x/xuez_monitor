@@ -1,4 +1,4 @@
-# xuez-monitor
+# xuez-monitor [DEPRECATED]
 
 PHP script designed to monitor your master-node(s) by using RPC API of XUEZ daemon.
 It uses apache, php and curl.
